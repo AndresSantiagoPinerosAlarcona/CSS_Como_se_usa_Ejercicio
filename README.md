@@ -45,7 +45,7 @@
     <li>El color de fondo del texto es negro: #000.</li>
   </ul>
 </ul>
-<p>Consejo: puedes utilizar las etiquetas de HTML <em> y <strong>.</p>
+<p>Consejo: puedes utilizar las etiquetas de HTML "em" y "strong".</p>
 <p>Consejo: puedes utilizar la etiqueta de HTML <span> para aplicar un estilo CSS a cualquier parte del texto.</p>
 
 <h2>Código base</h2>
